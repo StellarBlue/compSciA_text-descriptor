@@ -1,0 +1,29 @@
+Compiled Definitions List of Unique Terms in File:
+[word]: [definition]
+
+and: In rhythm, the second half of a divided beat.
+
+as: To such an extent or degree; to the same extent or degree.
+
+carried: To lift (something) and take it to another place; to transport (something) by lifting.
+
+of: Expressing distance or motion.
+
+onto: (of a function) Assuming each of the values in its codomain; having its range equal to its codomain.
+
+path: A trail for the use of, or worn by, pedestrians.
+
+rosemary: A shrub, Rosmarinus officinalis, that originates from Europe and Asia Minor and produces a fragrant herb used in cooking and perfumes.
+
+salt: A common substance, chemically consisting mainly of sodium chloride (NaCl), used extensively as a condiment and preservative.
+
+scent: A distinctive odour or smell.
+
+stepped: To move the foot in walking; to advance or recede by raising and moving one of the feet to another resting place, or by moving both feet in succession.
+
+the: With a comparative or with more and a verb phrase, establishes a correlation with one or more other such comparatives.
+
+wild: The undomesticated state of a wild animal
+
+wind: Real or perceived movement of atmospheric air usually caused by convection or differences in air pressure.
+
